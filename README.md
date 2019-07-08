@@ -26,6 +26,9 @@ this repo belongs to sub team for this project , this team works of pedestrian d
 - Numpy
 - Filterpy
 - CUDA
+- nvidia gtx 850 or higher 
+
+if you don't have these requirements you can use colab server but the results will be slower   
 
 **Quick use**
 
