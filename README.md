@@ -6,7 +6,7 @@
 
 ## **Description:**
 
-## **In this project, we built an Advanced Driver Assistant (ADAS) system based on an android application.The application is developed to assist drivers, independently of the kind of car they are using, the type of road and the skill of the driver. The application main function is to analyze the road in front of the driver to detect any possible threats and notify him **.
+**In this project, we built an Advanced Driver Assistant (ADAS) system based on an android application.The application is developed to assist drivers, independently of the kind of car they are using, the type of road and the skill of the driver. The application main function is to analyze the road in front of the driver to detect any possible threats and notify him **.
 
 
 
