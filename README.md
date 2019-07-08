@@ -6,7 +6,7 @@
 
 ## **Description:**
 
-**In this project, we built an Advanced Driver Assistant (ADAS) system based on an android application.The application is developed to assist drivers, independently of the kind of car they are using, the type of road and the skill of the driver. The application main function is to analyze the road in front of the driver to detect any possible threats and notify him **.
+In this project, we built an Advanced Driver Assistant (ADAS) system based on an android application.The application is developed to assist drivers, independently of the kind of car they are using, the type of road and the skill of the driver. The application main function is to analyze the road in front of the driver to detect any possible threats and notify him.
 
 
 
@@ -14,7 +14,7 @@
 
 this repo belongs to sub team for this project , this team works of pedestrian detection and tracking with depth estimation, we used  YOLO3 tiny version as a detector and we try three different trackers with it , Kalman Filter, Correlation Filter , and Kernelized Correlation Filter (KCF) . After that we used them with SORT Algorithm
 
-
+**Our results:** [link](https://drive.google.com/drive/folders/1aCMPYg894rILTYFv1fiV96ErSH7MkmP9?usp=sharing)
 
 **Requirements:**
 
