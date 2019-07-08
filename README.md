@@ -29,7 +29,7 @@ this repo belongs to sub team for this project , this team works of pedestrian d
 
 **Quick use**
 
-- download kerase model from here and put it in model folder
+- download kerase model from [here](https://drive.google.com/open?id=10Y61QqqqTFSuaOB6JJZ96pF3IwCtxieS) and put it in model folder
 - select which output you want correlation or Kalman or KCF with or without sort then go to the folder and run this command python yolo\_video.py - -input inputVideo.mp4 - - output outputVideo.mp4
 - if you face any problem with model paths update it in the code
 - if you want to run with depth go to the integration\_with\_depth folder then run python main.py /\* input video and output video have fixed path in main.py you can change it
